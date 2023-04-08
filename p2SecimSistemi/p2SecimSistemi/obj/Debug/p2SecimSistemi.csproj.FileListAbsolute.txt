@@ -1,0 +1,12 @@
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.FormOyGiris.resources
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.FormGrafikler.resources
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.Properties.Resources.resources
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\bin\Debug\p2SecimSistemi.exe.config
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\bin\Debug\p2SecimSistemi.exe
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\bin\Debug\p2SecimSistemi.pdb
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.exe
+C:\Users\mberk\source\repos\p2SecimSistemi\p2SecimSistemi\obj\Debug\p2SecimSistemi.pdb
